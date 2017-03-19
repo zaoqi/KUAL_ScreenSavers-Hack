@@ -1,0 +1,22 @@
+{
+	"items": [
+		{
+			"name": "ScreenSavers Hack",
+			"priority": 0,
+			"items": [
+				{
+					"name": "Enable ScreenSavers Hack",
+					"priority": 1,
+					"action": "./en.sh",
+					"exitmenu": false
+				},
+				{
+					"name": "Disable ScreenSavers Hack",
+					"priority": 2,
+					"action": "./dis.sh",
+					"exitmenu": false
+				}
+			]
+		}
+	]
+}
